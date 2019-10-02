@@ -13,9 +13,9 @@
 
 
 -----------------
-git clone https://github.com/xoraxrax/wireguard.git
-cd /wireguard
-chmod +x wireguard_install_ubuntu.sh && ./wireguard_install_ubuntu.sh
+1. git clone https://github.com/xoraxrax/wireguard.git
+2. cd /wireguard
+3. chmod +x wireguard_install_ubuntu.sh && ./wireguard_install_ubuntu.sh
 ```
  ====================================
  介绍：wireguard一键脚本              
@@ -35,3 +35,5 @@ chmod +x wireguard_install_ubuntu.sh && ./wireguard_install_ubuntu.sh
 
 ```
 > 注： 如果一个配置文件只可以用一个用户 建议第一个手机（可以扫码） 第二个电脑
+
+- 经测试 ss封了 v2封了 这个没封....
